@@ -1,0 +1,5 @@
+NODE JS a telecharger
+BOOSTRAP
+JQUERY
+cdnjs font awesome / prendre la version 4.7
+google font/ audiowide, josefin sans, rambla  // importer en mode css

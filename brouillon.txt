@@ -1,0 +1,17 @@
+Faire un CV
+Montrer son parcours a travers son code
+les mots qui apparaissent petit a petit
+formulaire de contact pour la fin
+
+//COMPORTEMENT DE LA NAVBAR: lorsqu'on scrolle vers le bas la navbar disparait mais lorsquon scrolle vers le haut ,elle s'affiche
+
+
+on code d'abord le  HEADER et sa NAV BAR
+
+
+comment coder un text qui se code tout seul:
+une librairie javascript permet de le faire:npm install typed.JS //a recuperer via npm
+
+faire apparaitre les elements quand on scrolle sur la page
+
+TIPS: quand on decouvre une librairie ou une bibliotheque ,il faut toujours se referer a la documentation
