@@ -119,7 +119,7 @@ color: #141313d4 !important;
   height: 620px;
   width: 47%;
   max-width: 640px;
-  border: 2px solid red;
+/*   border: 2px solid red; */
   background: #2980B9;  /* fallback for old browsers */
   background: -webkit-linear-gradient(to right,  #2980B9, #6DD5FA,#FFFFFF);  /* Chrome 10-25, Safari 5.1-6 */
   background: linear-gradient(to right, #FFFFFF, #6DD5FA, #2980B9); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
@@ -140,10 +140,7 @@ color: #141313d4 !important;
   border: 2px solid red;
   max-width: 660px;
   padding: 110px 0 60px 50px;
-  background: #22c1c3;  /* fallback for old browsers */
-background: -webkit-linear-gradient(to left, #fdbb2d, #22c1c3);  /* Chrome 10-25, Safari 5.1-6 */
-background: linear-gradient(to left, #fdbb2d, #22c1c3); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
-
+background: linear-gradient(to left, #fdbb2d, #22c1c3); 
 clip-path: polygon(0 13%, 100% 0%, 100% 99%, 0 89%);
 }
 #autodidacte{
